@@ -1,6 +1,6 @@
 {
   "name": "@airsky/watermark",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "水印插件",
   "main": "lib/index.js",
   "bin": "lib/index.js",

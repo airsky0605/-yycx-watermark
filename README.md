@@ -34,7 +34,7 @@ waterMark.remove()
 | watermark_y_space  | 水印y轴间隔 | number  | 50 |
 | watermark_font  | 水印字体 | string  | 微软雅黑 |
 | watermark_color  | 水印字体颜色 | string  | #333 |
-| watermark_alpha  | 水印透明度 | number  | 0.15(如手动设置请大雨等于0.005) |
+| watermark_alpha  | 水印透明度 | number  | 0.15(如手动设置请大于等于0.005) |
 | watermark_width  | 水印宽度 | number  | 100 |
 | watermark_height  | 水印高度 | number  | 100 |
 | watermark_angle  | 水印倾斜度数 | number  | 15 |
