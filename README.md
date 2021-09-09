@@ -9,7 +9,7 @@
 
 ```js
 
-import waterMark from '@yycx/watermark'
+import waterMark from '@airsky/watermark'
 
 //渲染
 waterMark.load(settings)

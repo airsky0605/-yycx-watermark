@@ -1,5 +1,5 @@
 {
-  "name": "@yycx/watermark",
+  "name": "@airsky/watermark",
   "version": "1.0.0",
   "description": "水印插件",
   "main": "lib/index.js",
